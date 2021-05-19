@@ -22,3 +22,5 @@ We recommend all members to join our <a href="https://bit.ly/bekasidev-wa">Whats
 ### Contributions
 We are open and welcome for pull request or any other type of contributions with
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Bekasi-Dev-Community/bekasidev/blob/master/LICENSE)
+### Documentations
+We use Argon Design System for Main Landing Page, Refer to <a href="https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html">Offical Docs</a> if you want to customizing properly.
