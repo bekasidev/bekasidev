@@ -1,5 +1,5 @@
 # Bekasidev.org
-Bekasidev.org Official landing page. Public can Fork then Pull Request to edit or add content to this repository.
+Bekasidev.org Official landing page. Member can Fork then Pull Request to edit or add content to this repository.
 ## Brand Guidelines
 ### Name / Identity
 BekasiDev stands for Bekasi Developer, It means Community or Organization of Developers in Bekasi or nearby.
