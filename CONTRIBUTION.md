@@ -1,8 +1,8 @@
 # Tutorial
 
-## How to Fork, Clone and Push
+## How to Fork, Clone, Push & Pull Request
 
-Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article</a> for complete Tutorial.
+Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article</a> for complete Tutorial to Fork, Clone, Push & Pull Request.
 
 <hr>
 
@@ -49,17 +49,17 @@ Full Path to Template File <code>/member/profile-template.html</code>
 >Default title:
 
 ```html
-  <title>
-    Profile Template
-  </title>
+<title>
+  Profile Template
+</title>
 ```
 
 >Edit to:
 
 ```html
-  <title>
-    My FullName
-  </title>
+<title>
+   My FullName
+</title>
 ```
 
 >Default Profile Picture/Image:
@@ -92,6 +92,55 @@ Full Path to Example/Edited File: <code>/member/rifai.html</code>
 
 - Remember to edit other contents like description and social media links with your own.
 
+>Social Links:
+
+```html
+<div class="card-profile-stats d-flex justify-content-center">
+  <div>
+     <a href="https://facebook.com/username">
+       <span class="heading"><i class="fa fa-facebook"></i></span>
+     </a>
+  </div>
+   .......<!--Add your own links here-->
+</div>
+```
+
+>Description:
+
+```html
+<div class="text-center mt-5">
+    <h3>Jhon Thor<span class="font-weight-light">, 20</span></h3>
+        <div class="h6 font-weight-300">
+           <i class="ni ni-pin-3 mr-2"></i>Bekasi Utara, Kota Bekasi
+        </div> <!--Your Location-->
+        <div class="h6 mt-4">
+           <i class="ni ni-briefcase-24 mr-2"></i>Frontend Enginer - Bekasidev.org
+        </div> <!--Your Occupation-->
+        <div>
+           <i class="ni ni-hat-3 mr-2"></i>Universitas Pagar Makan Tanaman
+        </div> <!--Your Education-->
+</div>
+<div class="mt-5 py-5 border-top text-center">
+    <div class="row justify-content-center">
+        <div class="col-lg-9">
+           <p>Hello my name is Bekasidev, I am a developer, programmer, designer.</p>
+           <a href="https://www.google.com/search?q=bekasidev&oq=bekasidev">Show more</a>
+           <!--Your Description-->
+        </div>
+    </div>
+</div>
+```
+
+>Github Card:
+
+```html
+<!--Github Card for profile and repositories-->
+ <div class="container">
+    <div class="github-card" data-github="github-username" data-width="100%" data-height="" data-theme="medium"></div>
+    <div class="github-card" data-github="github-username/repository" data-width="100%" data-height="" data-theme="medium"></div>
+ </div>
+```
+
 <hr>
 
 ### Gallery
@@ -102,17 +151,31 @@ This gallery is a page to archiving or listing of all members, you only need to 
 
 Full Path to File <code>/member/index.html</code>
 
->Do Simple edit
+>Edit that file, change <code>myname.html</code>, <code>myname.jpg</code>, "My FullName" below with yours.
 
 ```html
 <div class="col-sm-3 col-6">
     <figure class="figure">
          <a href="myname.html" data-toggle="tooltip"
-              data-original-title="Your Name">
-             <img alt="Widi" class="img-fluid rounded-circle shadow" src="../assets/img/faces/myname.jpg">
+              data-original-title="My FullName">
+             <img alt="My FullName" class="img-fluid rounded-circle shadow" src="../assets/img/faces/myname.jpg">
           </a>
         <figcaption class="figure-caption text-center">My FullName</figcaption>
-   </figure>
+    </figure>
+</div>
+```
+
+>Example
+
+```html
+<div class="col-sm-3 col-6">
+    <figure class="figure">
+         <a href="rifai.html" data-toggle="tooltip"
+              data-original-title="Maksum Rifai">
+             <img alt="Maksum Rifai" class="img-fluid rounded-circle shadow" src="../assets/img/faces/rifai.jpg">
+          </a>
+        <figcaption class="figure-caption text-center">Maksum Rifai</figcaption>
+    </figure>
 </div>
 ```
 
