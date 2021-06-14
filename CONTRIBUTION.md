@@ -8,7 +8,7 @@ Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article<
 
 ## What should you Add and Edit
 
-### Photo
+### Profile Picture
 
 **Add** your Photo inside <a href="https://github.com/bekasidev/bekasidev/tree/master/assets/img/faces">this directory</a>:
 
@@ -28,9 +28,11 @@ Name it as simple as possible:
 
 Remember your image path and file name, this image you will use in profile and gallery below.
 
+Recommended image size is square 500x500px, with clear face or close-up, like identity card. 
+
 <hr>
 
-### Profile
+### Profile Page
 
 **Add** your profile page inside <a href="https://github.com/bekasidev/bekasidev/tree/master/member">this directory</a>:
 
@@ -44,7 +46,7 @@ Or **Copy** and **Edit** <a href="https://github.com/bekasidev/bekasidev/blob/ma
 
 - Full Path to Template File <code>/member/profile-template.html</code>
 
-After copy that file, change it's name with your name, do this simple edit:
+Copy, change it's name with your name, then do this simple edit:
 
 >Default title:
 
@@ -143,15 +145,18 @@ Remember to edit other contents like description and social media links with you
 
 <hr>
 
-### Gallery
+### Member Gallery
 
 This gallery is a page to archiving or listing of all members, you only need to add tumbnail and URL to your profile.
 
-**Edit** this file carefully, **don't copy** or change it's file name:
+**Edit** this file carefully, **don't copy** or change it's file name <code>index.html</code>
+
+Don't edit or delete anything belong to another members, you may add new row if there no more space for you.
 
 - Full Path to File <code>/member/index.html</code>
 
-Inside that file, change <code>myname.html</code>, <code>myname.jpg</code>, "My FullName" below with yours.
+Inside that file, change <code>myname.html</code>, <code>myname.jpg</code>, ***"My FullName"*** below with yours.
+
 
 >Default Snippet
 
