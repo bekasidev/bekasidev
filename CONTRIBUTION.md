@@ -10,41 +10,41 @@ Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article<
 
 ### Photo
 
-- **Add** your foto inside <a href="https://github.com/bekasidev/bekasidev/tree/master/assets/img/faces">this directory</a>:
+**Add** your Photo inside <a href="https://github.com/bekasidev/bekasidev/tree/master/assets/img/faces">this directory</a>:
 
-PATH: <code>/assets/img/faces/</code>
+- PATH: <code>/assets/img/faces/</code>
 
-- Name it as simple as possible:
+Name it as simple as possible:
 
-FILE: <code>myname.jpg</code>
+- FILE: <code>myname.jpg</code>
 
 **Example**:
 
-Full Path to File: <code>/assets/img/faces/rifai.jpg</code>
+- Full Path to File: <code>/assets/img/faces/rifai.jpg</code>
 
 **Live**:
 
-<a href="https://bekasidev.org/assets/img/faces/rifai.jpg">https://bekasidev.org/assets/img/faces/rifai.jpg</a>
+- <a href="https://bekasidev.org/assets/img/faces/rifai.jpg">https://bekasidev.org/assets/img/faces/rifai.jpg</a>
 
-- Remember your image path and file name, this image you will use in profile and gallery below.
+Remember your image path and file name, this image you will use in profile and gallery below.
 
 <hr>
 
 ### Profile
 
-- **Add** your profile page inside <a href="https://github.com/bekasidev/bekasidev/tree/master/member">this directory</a>:
+**Add** your profile page inside <a href="https://github.com/bekasidev/bekasidev/tree/master/member">this directory</a>:
 
-PATH: <code>/member/</code>
+- PATH: <code>/member/</code>
 
-- **Name** it as simple as possible:
+**Name** it as simple as possible:
 
-FILE: <code>myname.html</code>
+- FILE: <code>myname.html</code>
 
-- Or **Copy** and **Edit** <a href="https://github.com/bekasidev/bekasidev/blob/master/member/profile-template.html">this template file</a>:
+Or **Copy** and **Edit** <a href="https://github.com/bekasidev/bekasidev/blob/master/member/profile-template.html">this template file</a>:
 
-Full Path to Template File <code>/member/profile-template.html</code>
+- Full Path to Template File <code>/member/profile-template.html</code>
 
-- After copy that file, change it's name with your name, do this simple edit:
+After copy that file, change it's name with your name, do this simple edit:
 
 >Default title:
 
@@ -84,13 +84,13 @@ Full Path to Template File <code>/member/profile-template.html</code>
 
 **Example**:
 
-Full Path to Example/Edited File: <code>/member/rifai.html</code>
+- Full Path to Example/Edited File: <code>/member/rifai.html</code>
 
 **Live**:
 
-<a href="https://bekasidev.org/member/rifai.html">https://bekasidev.org/member/rifai.html</a>
+- <a href="https://bekasidev.org/member/rifai.html">https://bekasidev.org/member/rifai.html</a>
 
-- Remember to edit other contents like description and social media links with your own.
+Remember to edit other contents like description and social media links with your own.
 
 >Social Links:
 
@@ -149,9 +149,11 @@ This gallery is a page to archiving or listing of all members, you only need to 
 
 **Edit** this file carefully, **don't copy** or change it's file name:
 
-Full Path to File <code>/member/index.html</code>
+- Full Path to File <code>/member/index.html</code>
 
->Edit that file, change <code>myname.html</code>, <code>myname.jpg</code>, "My FullName" below with yours.
+Inside that file, change <code>myname.html</code>, <code>myname.jpg</code>, "My FullName" below with yours.
+
+>Default Snippet
 
 ```html
 <div class="col-sm-3 col-6">
@@ -165,7 +167,7 @@ Full Path to File <code>/member/index.html</code>
 </div>
 ```
 
->Example
+>Example Edited
 
 ```html
 <div class="col-sm-3 col-6">
@@ -180,7 +182,8 @@ Full Path to File <code>/member/index.html</code>
 ```
 
 **Live**:
-<a href="https://bekasidev.org/member">https://bekasidev.org/member</a>
+
+- <a href="https://bekasidev.org/member">https://bekasidev.org/member</a>
 
 ## Documentations
 
