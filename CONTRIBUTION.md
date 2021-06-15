@@ -1,4 +1,4 @@
-# Tutorial
+# Contribution
 
 ## How to Fork, Clone, Push & Pull Request
 
@@ -7,6 +7,14 @@ Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article<
 <hr>
 
 ## What should you Add and Edit
+
+Please read carefully, you only need to focus in 3 item:
+
+1. [Profile Picture](#profile-picture) (Upload Your Photo)
+2. [Profile Page](#profile-page) (Create Your Profile)
+3. [Member Gallery](#member-gallery) (Add Link and Tumbnail)
+
+<hr>
 
 ### Profile Picture
 
