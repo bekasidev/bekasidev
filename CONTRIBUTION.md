@@ -198,6 +198,13 @@ Inside that file, change <code>myname.html</code>, <code>myname.jpg</code>, ***"
 
 - <a href="https://bekasidev.org/member">https://bekasidev.org/member</a>
 
+## Summary
+
+what you should add/edit:
+- add profile picture (`yourname.jpg`)
+- add profile page (`yourname.html`)
+- add tumbnail and link to your profile in member archive/gallery (`member/index.html`)
+
 ## Documentations
 
 We use **Argon Design System** for Main Landing Page (bekasidev.org), Refer to <a href="https://demos.creative-tim.com/argon-design-system/docs/getting-started/overview.html">Offical Docs</a> if you want to customizing properly.
