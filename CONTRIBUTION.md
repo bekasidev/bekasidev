@@ -6,15 +6,6 @@ Read <a href="https://desainerhub.com/cara-kontribusi-open-source">this article<
 
 <hr>
 
-## Running in Localhost with terminal or cmc
-
-```
-cd bekasidev/
-php -S 127.0.0.1:8080
-
-```
-you can see bekasidev on localhost:8080
-
 ## What should you Add and Edit
 
 Please read carefully, you only need to focus in 3 item:
