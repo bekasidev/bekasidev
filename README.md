@@ -41,3 +41,8 @@ We are open and welcome for pull request or any other type of contributions with
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Bekasi-Dev-Community/bekasidev/blob/master/LICENSE)
 
 See what should you do to contribute in <a href="https://github.com/bekasidev/bekasidev/blob/master/CONTRIBUTION.md">CONTRIBUTION.md</a>.
+
+## All Contributors
+Thank you for contributing to bekasidev, here are some amazing contributors!
+
+<a href="https://github.com/bekasidev/bekasidev/graphs/contributors"><img src="https://contrib.rocks/image?repo=bekasidev/bekasidev" alt="All of amazing contributors"></a>
