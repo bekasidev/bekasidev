@@ -23,7 +23,7 @@ BekasiDev stands for Bekasi Developer, It means Community or Organization of Dev
 
 ### Copyrights
 
-Copyright is belong to <a href="https://github.com/MaksumRifai">Maksum Rifai</a> (<a href="https://desainerhub.com/portfolio/bekasidev">DesainerHub.com</a>), For Non-commercial purpose.
+Copyright is belong to <a href="https://github.com/MaksumRifai">Maksum Rifai</a>, For Non-commercial purpose.
 
 ## Community Guidelines
 
