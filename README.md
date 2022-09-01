@@ -33,7 +33,7 @@ Blue is our main color, implies professionalism, intelligence, self-confidence, 
 
 ### Copyrights
 
-Copyright is belong to <a href="https://github.com/MaksumRifai">Maksum Rifai</a>, For Non-commercial purpose.
+Copyright is belong to <a href="https://github.com/MaksumRifai">Maksum Rifai</a> / <a href="https://desainerhub.com">DesainerHub</a>.
 
 ## Community Guidelines
 
